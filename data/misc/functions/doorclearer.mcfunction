@@ -1,0 +1,1 @@
+kill @e[type=item,nbt={Item:{id:"minecraft:light_gray_concrete_powder"}}]
